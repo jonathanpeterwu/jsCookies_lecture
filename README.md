@@ -1,6 +1,7 @@
 Lecture done by
 Ken & @jonathanpeterwu
 
+![](http://media0.giphy.com/media/dHNAOkwfyktRm/200.gif)
 ##STEP 1.
  ####Window Load (client side browser javascript)
 ##STEP 2.
